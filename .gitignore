@@ -1,5 +1,7 @@
+/assets/
 /build/
 /images/
 /legacy/
 /scripts/
 build.py
+*.zip
