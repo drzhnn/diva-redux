@@ -9,11 +9,11 @@
 ## Installation
 1. Download latest release [here](https://github.com/drzhnn/diva-redux/releases)
 2. Copy the **Redux** folder to the default theme location:  
-  - Win: **VstPlugins\u-he\Diva.data\Support\Themes**  
-  - Mac: **MacHD/Library/Application Support/u-he/Themes**
+    - Win: `VstPlugins\u-he\Diva.data\Support\Themes` 
+    - Mac: `MacHD/Library/Application Support/u-he/Themes` 
 3. Copy the **Redux_Fonts** folder to Diva's fonts location:
-  - Win: **VstPlugins\u-he\Diva.data\Data\Fonts**
-  - Mac: ???
+  - Win: `VstPlugins\u-he\Diva.data\Data\Fonts` 
+  - Mac: ??? 
 4. Open Diva and choose the Redux theme in the Preferences panel
 
 ## Requirements
