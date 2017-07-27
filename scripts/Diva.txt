@@ -19,7 +19,7 @@ COLOUR name='c_midi_lrn_bg' rgba='3b344aa0'
 COLOUR name='c_gl_dark' rgba='3a3349ff'
 COLOUR name='c_gl_digi' rgba='959097ff'
 COLOUR name='c_knob_area' rgba='2F293Dff'
-COLOUR name='c_ticks' rgba='6D6473ff'
+COLOUR name='c_ticks' rgba='ffffff40' # 6D6473ff
 
 # top bar
 COLOUR name='btn_patches_text' rgba='ffffff80'
@@ -46,7 +46,7 @@ COLOUR name='scope_wave' rgba='817f7bcc'
 
 # text
 COLOUR name='label_text' rgba='ffffff48'
-COLOUR name='label_small_text' rgba='706b7aff'
+COLOUR name='label_small_text' rgba='ffffff40' # 706b7aff
 COLOUR name='label_mod' rgba='ffffff88'
 COLOUR name='mod_menu_border' rgba='60000000'
 COLOUR name='mod_menu_bg' rgba='4b4359ff' # 2D2730ff
