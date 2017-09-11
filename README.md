@@ -13,9 +13,9 @@
     - Mac: `/Library/Application Support/u-he/Themes` 
     - Linux: `~/.u-he/Diva/Support/Themes`  
 3. Copy the **Redux_Fonts** folder to Diva's fonts location:
-  - Win: `VstPlugins\u-he\Diva.data\Data\Fonts` 
-  - Mac: `/Library/Application Support/u-he/Diva/Fonts`  
-  - Linux: `~/.u-he/Diva/Data/Fonts`  
+    - Win: `VstPlugins\u-he\Diva.data\Data\Fonts` 
+    - Mac: `/Library/Application Support/u-he/Diva/Fonts`  
+    - Linux: `~/.u-he/Diva/Data/Fonts`  
 4. Open Diva and choose the Redux theme in the Preferences panel
 
 ## Requirements
