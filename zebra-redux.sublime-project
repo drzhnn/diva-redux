@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+   "build_systems":
+    [
+        {
+            "name": "Redux theme builder",
+            "cmd": ["python", "../build.py"]
+        },
+        {
+            "name":"Redux theme builder (release)",
+            "cmd": ["python", "../build.py", "release"]
+        }
+
+    ]
+}
