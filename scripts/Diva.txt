@@ -26997,10 +26997,6 @@ PROPERTY control='PatchBrowser' name='spacing' id='0' value='0.00'
 PROPERTY control='PatchBrowser' name='margin H' id='0' value='0.00'
 PROPERTY control='PatchBrowser' name='margin V' id='0' value='0.00'
 
-# scanner progress bar
-CONTROL type='StateButton' name='_DatabaseUpdateIndicator' bounds='0.00 0.00 1200.00 2.00' parent='PatchBrowser' layerMask='1'
-PROPERTY control='_DatabaseUpdateIndicator' name='FontSize' id='0' value='10.00'
-PROPERTY control='_DatabaseUpdateIndicator' name='FontVOffset' id='0' value='-1.00'
 
 CONTROL type='Layout-Stack' name='_PresetManagerStack' bounds='0.00 0.00 273.00 499.00' parent='PatchBrowser' layerMask='ffffffff'
 PROPERTY control='_PresetManagerStack' name='colours' id='0' value='none'
@@ -27411,6 +27407,10 @@ PARAMETER control='_PresetInspectorView' port='Category' module='PCore' paramete
 PARAMETER control='_PresetInspectorView' port='Features' module='PCore' parameter='MetaF'
 PARAMETER control='_PresetInspectorView' port='Character' module='PCore' parameter='MetaCha'
 
+# scanner progress bar
+CONTROL type='StateButton' name='_DatabaseUpdateIndicator' bounds='0.00 0.00 1200.00 2.00' parent='PatchBrowser' layerMask='1'
+PROPERTY control='_DatabaseUpdateIndicator' name='FontSize' id='0' value='10.00'
+PROPERTY control='_DatabaseUpdateIndicator' name='FontVOffset' id='0' value='-1.00'
 
 
 # Close Patches Window Button
