@@ -21419,7 +21419,7 @@ PROPERTY control='Pane VCA' name='layer' id='1' value='Env1'
 	PROPERTY control='Slider VCA' name='clickThrough' id='0' value='NO'
 
 
-		CONTROL type='Label' name='Label 4078' bounds='0.00 -20.00 60.00 20.00' parent='Display 4077' layerMask='ffffffff'
+		CONTROL type='Label' name='Label 4078' bounds='0.00 -20.00 60.00 20.00' parent='Pane VCA' layerMask='ffffffff'
 		PROPERTY control='Label 4078' name='colours' id='0' value='invisible'
 		PROPERTY control='Label 4078' name='colours' id='1' value='label_text'
 		PROPERTY control='Label 4078' name='graphics' id='0' value='none'
