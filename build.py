@@ -14,8 +14,12 @@ BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 NOW = time.strftime('%Y-%m%d-%H%M')
 ZIP_NAME = '%s-%s' % (PROJECT_NAME, NOW)
 
-THEMES = {'Redux': f'{BASE_DIR}/color_schemes/default.txt',
-          'Redux Gray': f'{BASE_DIR}/color_schemes/gray.txt'}
+THEMES = {
+          'Redux': f'{BASE_DIR}/color_schemes/default.txt',
+          'Redux Gray': f'{BASE_DIR}/color_schemes/gray.txt',
+          # 'Redux White': f'{BASE_DIR}/color_schemes/white.txt',
+          'Redux Black': f'{BASE_DIR}/color_schemes/black.txt'
+          }
 
 
 for theme in THEMES:
