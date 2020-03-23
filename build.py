@@ -31,7 +31,7 @@ for theme in THEMES:
 
 for theme in THEMES:
     try:
-        os.makedirs(f'{BASE_DIR}/build/{theme}')
+        os.makedirs(f'{BASE_DIR}/build/{theme}/Images')
     except Exception as e:
         print(e)
     finally:
